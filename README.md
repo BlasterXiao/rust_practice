@@ -10,3 +10,12 @@
 
 - 本地同步给远程
   - git push
+
+- 创建标签
+  - git tag -a
+
+- 查看标签
+  - git tag -l
+
+- 同步到远程tag
+  - git push origin --tag
