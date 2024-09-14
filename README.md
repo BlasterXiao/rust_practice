@@ -1,4 +1,4 @@
-# 代码测试记录 markdown
+# start
 
 ## 用到的命令
 
@@ -19,3 +19,13 @@
 
 - 同步到远程tag
   - git push origin --tag
+
+- 提交代码
+
+```test
+   rust-test1 on  main [!] is 📦 v0.1.0 via 🦀 v1.77.2
+    ❯ git checkout -b my_test/fix-r1
+    Switched to a new branch 'my_test/fix-r1'
+
+    rust-test1 on  my_test/fix-r1 [!] is 📦 v0.1.0 via 🦀 v1.77.2
+```
