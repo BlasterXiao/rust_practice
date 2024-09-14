@@ -3,5 +3,10 @@
 ## 用到的命令
 
 - 切换进程
+  - fg %pid
 
-    fg %pid
+- 远程同步本地
+  - git fetch / git pull
+
+- 本地同步给远程
+  - git push
